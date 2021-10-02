@@ -1,7 +1,7 @@
 # Otimização para Dimensionamento de Equipe de TI
 
-#### Aluno: Walter da Costa Carvalho(https://github.com/link_do_github)
-#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+#### Aluno: Walter da Costa Carvalho(https://github.com/walcostac)
+#### Orientador: Felipe Borges(https://github.com/FelipeBorgesC)
 
 ---
 
